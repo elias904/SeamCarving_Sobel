@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/mendeszika/Downloads/TP2 - 31-05(20_22) Projeto PseudoCompleto/SobelApp'
+gcc -g Main.c Matriz.c Dinamica.c Lista.c -o Programa -lm
+make: Leaving directory '/home/mendeszika/Downloads/TP2 - 31-05(20_22) Projeto PseudoCompleto/SobelApp'
+ 
